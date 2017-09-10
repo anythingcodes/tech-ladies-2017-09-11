@@ -7,3 +7,6 @@
 [submodule "7-amanda"]
 	path = 7-amanda
 	url = https://github.com/amandamunoz/tech-ladies-agile-gardening.git
+[submodule "2-tai"]
+	path = 2-tai
+	url = https://github.com/tairemad/tech-ladies-lightning-talk.git
