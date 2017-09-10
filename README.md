@@ -1,4 +1,6 @@
-# tech-ladies-2017-09-11
+# Tech Ladies Meetup sponsored by Amazon: 
+
+Lightning talks for [a Tech Ladies event](eventbrite.com/e/tech-ladies-boston-meetup-sponsored-by-amazon-tickets-36476335702) on September 11, 2017. Event organized by yours truly.
 
 ## Presentations
 1. Christine Chapman - _How to write a Code of Conduct_ - [View Slides](https://czchapma.github.io/tech-ladies-lightning-talks/)
