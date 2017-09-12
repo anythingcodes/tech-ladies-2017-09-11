@@ -10,6 +10,3 @@
 [submodule "2-tai"]
 	path = 2-tai
 	url = https://github.com/tairemad/tech-ladies-lightning-talk.git
-[submodule "3-casey"]
-	path = 3-casey
-	url = https://github.com/cgruppioni/tech-ladies-lightning-talks.git
